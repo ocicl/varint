@@ -4,7 +4,7 @@ Variable-size integer encoding and decoding for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/brown/protobuf.git      |
-| commit  | aa09142                                        |
+| commit  | 82201dc                                        |
 | dir     | varint                                         |
 | systems | varint                                         |
 |---------+------------------------------------------------|
